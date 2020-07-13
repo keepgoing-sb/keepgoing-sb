@@ -5,6 +5,7 @@
 - Blockchain System(Ethereum & Hyperledger)
 - Blockchain Security
 - Computer System Security
+- My Life!
 
 #### The realization that “this isn’t money, it’s a decentralized trust network.”
 
